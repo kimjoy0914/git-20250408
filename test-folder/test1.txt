@@ -9,4 +9,3 @@ hello javascript
 hello spring추가
 local repo 반영이후 취소 실습 -> git reset head~1 또는 git reset head^
 git revert 커밋아이디 엔터 하면 자동으로 커밋 메시지 작성 화면으로 들어감.
-원격레포 간것 취소소
