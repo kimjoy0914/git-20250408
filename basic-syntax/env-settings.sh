@@ -20,3 +20,16 @@ git remote set-url origin 웹레포주소
 # 원격지 주소 확인
 git remote -v
 
+# 사용자 지정 방법
+# 전역적 사용자 지정
+git config --global user.name "유저네임"
+git config --global user.email "유저이메일"
+
+# 지역적 사용자 지정
+git config --local user.name "유저네임"
+git config --local user.email "유저이메일"
+
+# 사용자 정보 조회
+git config user.name
+git config user.email
+git config --list
