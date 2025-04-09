@@ -9,3 +9,5 @@
     - (주의사항) git push origin main, git fetch origin main 등 로컬에서 원격을     
     대상으로 작업시에는 "origin main" 사용하지만, 로컬에서 git diff 또는 git merge 등을      
     사용하여 로컬내의 origin브랜치명을 참조할때는 "origin/main" 사용한다.     
+
+* origin/main은 로컬에서 원격의 main을 가리키는 물리적인 브랜치이다.
