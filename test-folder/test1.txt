@@ -7,3 +7,4 @@ hello python추가
 hello c++추가 
 hello javascript
 hello spring추가
+local repo 반영이후 취소 실습 -> git reset head~1 또는 git reset head^
