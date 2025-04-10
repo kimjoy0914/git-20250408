@@ -20,3 +20,10 @@ git reset --soft head~1
 
 # push 이후의 취소 -> git commit메시지 작성 vi화면으로 이동 -> 수정 후 화면 닫기
 git revert 기존의 커밋ID
+
+# 작업 중인 사항을 임시저장(충돌상황에서 많이 사용)
+git stash
+
+# 저장한 최신의 작업 목록을 꺼내기
+git stash pop
+
