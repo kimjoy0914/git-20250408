@@ -1,17 +1,20 @@
 원격 stash추가1
 hello world4
 hello java추가
+stash 추가1
 hello python추가 
 hello c++추가 
 hello javascript
 hello spring추가
 원격 stash추가2
+stash 추가2
 local repo 반영이후 취소 실습 -> git reset head~1 또는 git reset head^
 git revert 커밋아이디 엔터 하면 자동으로 커밋 메시지 작성 화면으로 들어감.
 원격에서 git pull 충돌상황 연출하기
 로컬에서 git pull 충돌상황 연출하기2 - 원격에서 test3.txt 작성
 로컬 CASE 4 경우 실습
 원격 CASE 4 경우 실습
+stash 추가3
 로컬 CASE 5 경우 실습   - 커밋은 하지 않은 상태
 원격 stash추가3
 원격 커밋 CASE 5 실습 추가  
