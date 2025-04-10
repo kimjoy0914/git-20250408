@@ -10,3 +10,4 @@ git revert 커밋아이디 엔터 하면 자동으로 커밋 메시지 작성 �
 로컬에서 git pull 충돌상황 연출하기2 - 원격에서 test3.txt 작성
 로컬 CASE 4 경우 실습
 원격 CASE 4 경우 실
+원격 커밋 CASE 5 실습 추가  
