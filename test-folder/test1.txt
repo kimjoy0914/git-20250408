@@ -8,3 +8,4 @@ local repo 반영이후 취소 실습 -> git reset head~1 또는 git reset head^
 git revert 커밋아이디 엔터 하면 자동으로 커밋 메시지 작성 화면으로 들어감.
 원격에서 git pull 충돌상황 연출하기
 로컬에서 git pull 충돌상황 연출하기2 - 원격에서 test3.txt 작성
+원격 CASE 4 경우 실
